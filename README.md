@@ -1,2 +1,2 @@
-# python-journey
+# python
 mini python projects
